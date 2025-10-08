@@ -5,7 +5,7 @@ for i in range(0,n):
   a=int(input("Enter the number\n"))
   l.append(a)
 
-point=0
+
 
 
 for index in range(len(l)):
