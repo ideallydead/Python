@@ -18,3 +18,6 @@ def fact(x):
 x=inputnum()
 zero(x)
 fact(x)
+
+
+        
